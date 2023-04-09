@@ -1,0 +1,23 @@
+div{
+    display: inline-block;
+    padding: 30px 40px;
+    margin: 50px;
+  
+}
+.assign-1-shape-1{
+    background-color: rgba(168, 32, 222, 0.1);
+    border: 5px solid red;
+    outline: 10px solid black;
+}
+.assign-1-shape-2{
+    background-color: rgba(168, 32, 222, 0.1);
+    border: 5px solid ;
+    border-color: blue green;
+    outline: 10px solid black;
+}
+.assign-1-shape-3{
+    background-color: rgba(168, 32, 222, 0.1);
+    border:5px dashed ;
+    border-color: red green blue yellow;
+    outline: 10px solid black;
+}
