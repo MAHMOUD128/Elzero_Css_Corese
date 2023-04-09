@@ -1,0 +1,12 @@
+p{
+    padding: 5px;
+    margin: 10px;
+    direction: ltr;
+    text-align: center;
+}
+.one{
+    text-transform: uppercase;
+}
+.two{
+    text-transform: capitalize;
+}

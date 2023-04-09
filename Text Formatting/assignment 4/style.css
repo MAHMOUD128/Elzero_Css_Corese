@@ -1,0 +1,11 @@
+.link{
+    padding: 20px;
+    background-color: #0cf5e5;
+    display: inline-block;
+    margin: 20px;
+    color: white ;
+    text-transform: capitalize;
+    border-bottom: #089d93 5px solid;
+    border-radius: 5px;
+   
+}

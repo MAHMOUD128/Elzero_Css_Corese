@@ -1,0 +1,18 @@
+div{
+    background-color:rgb(205, 196, 196);
+    width: 400px;
+    padding: 30px;
+    margin: 20px;
+}
+.one{
+    white-space: normal;
+}
+.two{
+    white-space: nowrap;
+    overflow: hidden;
+}
+.three{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
