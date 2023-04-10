@@ -1,0 +1,26 @@
+.one{
+    padding: 30px;
+    border: 2px solid rgb(255, 122, 40);
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
+.one p{
+    padding: inherit;
+    border: inherit;
+    background-color: rgb(210, 213, 216);
+}
+
+.two{
+    padding: 30px;
+    border: 2px solid rgb(40, 219, 255);
+    text-align: center;
+}
+
+.two p{
+    padding: inherit;
+    border: inherit;
+    background-color: rgb(210, 213, 216);
+
+}
